@@ -1,15 +1,16 @@
 ---
 source_url: https://dbnsa.sharepoint.com/sites/ComplianceOfficers93/Regulatory Repository/Rest of World/Argentina BA Province/2. Analysis/QF High Level Analysis for Argentina - Buenos Aries Province.pdf
 country: Argentina
-document_name: QF High Level Analysis for Argentina - Buenos Aries Province
+document_name: High Level Analysis for Argentina (Buenos Aries Province) Quickfire Regulated Market
 source_file: QF High Level Analysis for Argentina - Buenos Aries Province.pdf
-source_url: https://dbnsa.sharepoint.com/sites/ComplianceOfficers93/Regulatory Repository/Rest of World/Argentina BA Province/2. Analysis/QF High Level Analysis for Argentina - Buenos Aries Province.pdf
+source_url: https://dbnsa.sharepoint.com/sites/ComplianceOfficers93/Regulatory%20Repository/Rest%20of%20World/Argentina%20BA%20Province/2.%20Analysis/QF%20High%20Level%20Analysis%20for%20Argentina%20-%20Buenos%20Aries%20Province.pdf
 extracted_date: 2026-04-30
 jurisdiction: Argentina BA Province
-description: This document provides a high-level overview of regulatory requirements for the Quickfire regulated market in Argentina (Buenos Aries Province).
+description: This document provides a high-level overview of the regulations applicable to the Quickfire regulated market in Argentina (Buenos Aries Province).
+regulatory_body: Enforcement Authority
 ---
 
-# High Level Analysis for Argentina (Buenos Aries Province)
+# High Level Analysis for Argentina (Buenos Aries Province) Quickfire Regulated Market
 
 Ashley Dhunraj  
 12 June 2019  
@@ -17,32 +18,32 @@ Version 1.0
 
 ## Contents
 
-- [Introduction](#introduction)
-- [Registration](#registration)
-- [Currency](#currency)
-- [Languages](#languages)
-- [Banking](#banking)
-- [Licenses](#licenses)
-- [Playcheck](#playcheck)
-- [External Register](#external-register)
-- [Games Rules](#games-rules)
-- [Games](#games)
-- [Free Games](#free-games)
-- [RTP](#rtp)
-- [Card Games](#card-games)
-- [Incomplete Games](#incomplete-games)
-- [Incomplete Games Sweeper](#incomplete-games-sweeper)
-- [Integrity Checker ?](#integrity-checker-)
-- [Autoplay](#autoplay)
-- [Player Protection](#player-protection)
-- [Responsible Gaming](#responsible-gaming)
-- [Session Inactivity](#session-inactivity)
-- [Account Suspension and Closure](#account-suspension-and-closure)
-- [Advertising](#advertising)
-- [Certification](#certification)
-- [Change Management](#change-management)
-- [Report and Control System (SAFE?)](#report-and-control-system-safe)
-- [Responsibility Checklist](#responsibility-checklist)
+- INTRODUCTION
+- REGISTRATION
+- CURRENCY
+- LANGUAGES
+- BANKING
+- LICENSES
+- PLAYCHECK
+- EXTERNAL REGISTER
+- GAMES RULES
+- GAMES
+- FREE GAMES
+- RTP
+- CARD GAMES
+- INCOMPLETE GAMES
+- INCOMPLETE GAMES SWEEPER
+- INTEGRITY CHECKER ?
+- AUTOPLAY
+- PLAYER PROTECTION
+- RESPONSIBLE GAMING
+- SESSION INACTIVITY
+- ACCOUNT SUSPENSION AND CLOSURE
+- ADVERTISING
+- CERTIFICATION
+- CHANGE MANAGEMENT
+- REPORT AND CONTROL SYSTEM (SAFE?)
+- RESPONSIBILITY CHECKLIST
 
 ## Introduction
 
@@ -138,7 +139,7 @@ The prize percentages established in the relevant game rules or as may be define
 
 For sports which is N/A – the RTP must be >= 80%
 
-### Limits
+## Limits
 
 The player must be able to set deposit limits.
 
