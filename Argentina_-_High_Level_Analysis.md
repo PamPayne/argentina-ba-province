@@ -6,6 +6,6 @@ extracted_date: 2026-04-30
 jurisdiction: Argentina BA Province
 ---
 
-# Argentina - High Level Analysis
+# DOCX extraction error
 
-DOCX extraction error: No binary data — DOCX extraction unavailable
+No binary data — DOCX extraction unavailable
