@@ -1,53 +1,54 @@
 ---
 source_url: https://dbnsa.sharepoint.com/sites/ComplianceOfficers93/Regulatory Repository/Rest of World/Argentina BA Province/2. Analysis/QF High Level Analysis for Argentina - Buenos Aries Province.pdf
 country: Argentina
-document_name: High Level Analysis for Argentina (Buenos Aries Province) Quickfire Regulated Market
+document_name: QF High Level Analysis for Argentina - Buenos Aries Province
 source_file: QF High Level Analysis for Argentina - Buenos Aries Province.pdf
-source_url: https://dbnsa.sharepoint.com/sites/ComplianceOfficers93/Regulatory%20Repository/Rest%20of%20World/Argentina%20BA%20Province/2.%20Analysis/QF%20High%20Level%20Analysis%20for%20Argentina%20-%20Buenos%20Aries%20Province.pdf
+source_url: https://dbnsa.sharepoint.com/sites/ComplianceOfficers93/Regulatory Repository/Rest of World/Argentina BA Province/2. Analysis/QF High Level Analysis for Argentina - Buenos Aries Province.pdf
 extracted_date: 2026-04-30
 jurisdiction: Argentina BA Province
-description: This document provides a high-level overview of the regulations applicable to the Quickfire regulated market in Argentina (Buenos Aries Province).
+description: High-level overview of regulatory requirements for the Quickfire regulated market in Argentina (Buenos Aries Province).
 regulatory_body: Enforcement Authority
 ---
 
-# High Level Analysis for Argentina (Buenos Aries Province) Quickfire Regulated Market
+# High Level Analysis for Argentina (Buenos Aries Province)
 
+**Quickfire Regulated Market**  
 Ashley Dhunraj  
 12 June 2019  
 Version 1.0
 
 ## Contents
 
-- INTRODUCTION
-- REGISTRATION
-- CURRENCY
-- LANGUAGES
-- BANKING
-- LICENSES
-- PLAYCHECK
-- EXTERNAL REGISTER
-- GAMES RULES
-- GAMES
-- FREE GAMES
-- RTP
-- CARD GAMES
-- INCOMPLETE GAMES
-- INCOMPLETE GAMES SWEEPER
-- INTEGRITY CHECKER ?
-- AUTOPLAY
-- PLAYER PROTECTION
-- RESPONSIBLE GAMING
-- SESSION INACTIVITY
-- ACCOUNT SUSPENSION AND CLOSURE
-- ADVERTISING
-- CERTIFICATION
-- CHANGE MANAGEMENT
-- REPORT AND CONTROL SYSTEM (SAFE?)
-- RESPONSIBILITY CHECKLIST
+- [Introduction](#introduction)
+- [Registration](#registration)
+- [Currency](#currency)
+- [Languages](#languages)
+- [Banking](#banking)
+- [Licenses](#licenses)
+- [Playcheck](#playcheck)
+- [External Register](#external-register)
+- [Games Rules](#games-rules)
+- [Games](#games)
+- [Free Games](#free-games)
+- [RTP](#rtp)
+- [Card Games](#card-games)
+- [Incomplete Games](#incomplete-games)
+- [Incomplete Games Sweeper](#incomplete-games-sweeper)
+- [Integrity Checker ?](#integrity-checker-)
+- [Autoplay](#autoplay)
+- [Player Protection](#player-protection)
+- [Responsible Gaming](#responsible-gaming)
+- [Session Inactivity](#session-inactivity)
+- [Account Suspension and Closure](#account-suspension-and-closure)
+- [Advertising](#advertising)
+- [Certification](#certification)
+- [Change Management](#change-management)
+- [Report and Control System (SAFE?)](#report-and-control-system-safe)
+- [Responsibility Checklist](#responsibility-checklist)
 
 ## Introduction
 
-The purpose of this document is to provide a Quickfire high-level overview of the regulations for the Argentina (Buenos Aries Province) regulated market.
+The purpose of this document is to provide a **Quickfire** high-level overview of the regulations for the Argentina (**Buenos Aries Province**) regulated market.
 
 This document should not be regarded as an exhausted list of all requirements and shall not be used for development purposes or as a communication deliverable sent to a client.
 
@@ -69,7 +70,7 @@ The currency will be the “Legal currency of Argentina” which currently is th
 
 The operator may use other units as bonus points (bonuses) or similar. The platform will record the balance and the movements expressed in each of the units. Additionally, the operator must inform the regulator of the authorised currency conversion mechanism.
 
-Note: $ is the symbol for the Argentinian peso which is the same as the US Dollar.
+**Note:** $ is the symbol for the Argentinian peso which is the same as the US Dollar.
 
 ## Languages
 
@@ -79,13 +80,13 @@ Game rules must be provided in Spanish. There is no mention of the language requ
 
 Operators would need to provide a compliant banking solution.
 
-For the purposes of online gaming transactions, license holders and any such other persons as may be determined by the applicable rules shall open an account at the bank Banco de la Provincia de Buenos Aires.
+For the purposes of online gaming transactions, license holders and any such other persons as may be determined by the applicable rules shall open an account at the bank **Banco de la Provincia de Buenos Aires**.
 
 ## Licenses
 
-A license is required to operate in Argentina. Calls for granting licences for undertaking online gambling activities are carried out. Anyone who is interested taking part in the Call must register in advance in the Registry of Applicant Licensees, whose terms will be determined by the Implementing Authority.
+A license is required to operate in Argentina. Calls for granting licences for undertaking online gambling activities are carried out. Anyone who is interested taking part in the Call must register in advance in the **Registry of Applicant Licensees**, whose terms will be determined by the Implementing Authority.
 
-The Online Gaming License Registry is hereby created for the purpose of registering operators.
+The **Online Gaming License Registry** is hereby created for the purpose of registering operators.
 
 Once entered in the Register, the Applicant will be permanently registered, as long as there are no grounds for exclusion after said registration.
 
@@ -95,11 +96,11 @@ License holders shall allow players to have access to any information related to
 
 The participant will see the balance of the games account in real time, as well as the registration of all the participations or plays made, at least during the last 30 (thirty) days.
 
-Note: We can provide Playcheck data for gaming history. The operator will need to provide the additional data mentioned
+**Note:** We can provide **Playcheck** data for gaming history. The operator will need to provide the additional data mentioned
 
 ## External Register
 
-The Enforcement Authority shall keep an electronic updated Registry of Players’ Voluntary Exclusion, which shall be linked to the players’ registry, to ensure the exclusion of any players that have registered therein.
+The **Enforcement Authority** shall keep an electronic updated **Registry of Players’ Voluntary Exclusion**, which shall be linked to the players’ registry, to ensure the exclusion of any players that have registered therein.
 
 ## Games Rules
 
@@ -139,7 +140,7 @@ The prize percentages established in the relevant game rules or as may be define
 
 For sports which is N/A – the RTP must be >= 80%
 
-## Limits
+### Limits
 
 The player must be able to set deposit limits.
 
@@ -147,7 +148,7 @@ The user may set session time and credit limits for gambling according.
 
 In case of reaching the time or credit limit while the process of a game is not completed, the user may choose to continue the game or to stop but shall not be able to start another game process.
 
-Note: Autoplay must be stopped in this event. As an optional requirement we can advise our operators not to offer this. Discussion point – confirm with the regulator if it is optional.
+**Note:** **Autoplay** must be stopped in this event. As an optional requirement we can advise our operators not to offer this. Discussion point – confirm with the regulator if it is optional.
 
 ## Card Games
 
@@ -179,7 +180,7 @@ The game rules must inform the player on how funds are returned for games incomp
 
 The operator must have a documented procedure for managing the incidents of unavailability of one, several or all components, including associated technical measures. The components must perform self-diagnosis, check the critical files and check communications between the different components.
 
-We need to confirm if this requirement refers to an Integrity Checker type solution.
+We need to confirm if this requirement refers to an **Integrity Checker** type solution.
 
 ## Autoplay
 
@@ -187,7 +188,7 @@ Autoplay is allowed
 
 Autoplay must be stopped at any given time.
 
-The player must be able select the maximum number of spins or amount the wish to spend whilst in Autoplay
+The player must be able select the maximum number of spins or amount the wish to spend whilst in **Autoplay**
 
 For multiplayer games, all participants must be informed and must accept a participant who has established the automatic game function.
 
@@ -197,10 +198,10 @@ Game participants shall have the following rights:
 
 - a. To obtain clear and truthful information on the rules of the game in which they wish to participate, in Spanish. Game rules must be available on the license holder’s website;
 - b. To collect any prizes to which they may be entitled when and as established by each game specific rules;
-- c. To submit before the Enforcement Authority under this Title claims against any operator’s decision that may affect their interests;
+- c. To submit before the **Enforcement Authority** under this Title claims against any operator’s decision that may affect their interests;
 - d. To play freely, without coercion or threats from other players or any other third party;
 - e. To know at any time the amount bet or wagered, as well as the gaming account balance;
-- f. To have their personal data protected in accordance with National Law No. 25,326 on personal data protection;
+- f. To have their personal data protected in accordance with **National Law No. 25,326** on personal data protection;
 - g. To know at any time the gaming operator’s identity, especially in the case of telematic games, and, in the event of a claim or possible infringements, to know the identity of the staff members that interact with participants; and
 - h. To receive information on responsible gaming.
 
@@ -212,10 +213,13 @@ Intervention and control shall also be part of such policy.
 
 Gaming operators shall have the obligation to:
 
-1. Enable a function that allows players to set deposit limits;
-2. Enable a function that allows players to apply for a temporary or permanent voluntary exclusion from the game and/or a time restriction; and
-3. Create a warning system to alert players that they have logged-in over three hours ago. Such alert shall be triggered every hour thereafter.
-4. Once the user is authenticated, show them the date and time of their last access on the system
+1) Enable a function that allows players to set deposit limits;
+
+2) Enable a function that allows players to apply for a temporary or permanent voluntary exclusion from the game and/or a time restriction; and
+
+3) Create a warning system to alert players that they have logged-in over three hours ago. Such alert shall be triggered every hour thereafter.
+
+4) Once the user is authenticated, show them the date and time of their last access on the system
 
 ## Session Inactivity
 
@@ -235,7 +239,7 @@ The operator must keep a record of these users. The record will include the date
 
 ## Advertising
 
-Any type of advertising, sponsorship or promotion of games of chance, as well as the advertising or promotion of gaming operators is prohibited unless the relevant authorisation from the Enforcement Authority has been obtained.
+Any type of advertising, sponsorship or promotion of games of chance, as well as the advertising or promotion of gaming operators is prohibited unless the relevant authorisation from the **Enforcement Authority** has been obtained.
 
 ## Certification
 
@@ -249,7 +253,7 @@ In relation to the random number generator, the report will indicate the level o
 
 The final certification reports will be accompanied by a copy of the critical software files, subject to approval, digitally signed by the entities designated for this purpose, which will be used to check the integrity of the software in the auditing procedures of the technical games systems.
 
-Note: This may be a concern.
+**Note:** This may be a concern.
 
 ## Change Management
 
@@ -261,13 +265,13 @@ Non-Substantial changes do not require approval from the regulator.
 
 ## Report and Control System (SAFE?)
 
-The regulator will monitor, survey and control reports provided by the operator and/or queries to the operator’s replica database (RDB) with data from the production games system.
+The regulator will monitor, survey and control reports provided by the operator and/or queries to the operator’s replica database (**RDB**) with data from the production games system.
 
-The Regulator needs access to the RDB and must be able to monitor and supervise any of the components of the operators' technical gaming platforms.
+The Regulator needs access to the **RDB** and must be able to monitor and supervise any of the components of the operators' technical gaming platforms.
 
-The RDB and the operator's records must be kept during the term of the concession and for the ten (10) years that follow the end of the concession.
+The **RDB** and the operator's records must be kept during the term of the concession and for the ten (10) years that follow the end of the concession.
 
-The RDB server(s) must be housed within the IPLYC datacentre.
+The **RDB** server(s) must be housed within the **IPLYC** datacentre.
 
 ## Responsibility Checklist
 
