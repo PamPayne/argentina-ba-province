@@ -104,9 +104,9 @@ Games rules must be made available to the player on the operator’s website.
 
 The rules must:
 
-- a. be in Spanish
-- b. contain the RTP
-- c. Inform the player on how funds are returned for games incomplete games cancelled by the operator.
+1. a. be in Spanish
+2. b. contain the RTP
+3. c. Inform the player on how funds are returned for games incomplete games cancelled by the operator.
 
 Changes to the game rules must be reported to the regulator.
 
@@ -116,7 +116,9 @@ The name of the game that the participant is playing must be clearly visible on 
 
 The screen must show the participant’s current balance in legal Argentine tender, as well as the unitary and total bets made.
 
-The interface must clearly indicate if the prizes are shown in legal Argentine tender or in credits. Different representations that may confuse the participant must not be alternated.
+The interface must clearly indicate if the prizes are shown in legal Argentine tender or in credits.
+
+Different representations that may confuse the participant must not be alternated.
 
 If random prizes associated with a play or bet are offered, the participant must know the maximum amount that can be obtained from the bet or play that they will complete.
 
@@ -190,14 +192,14 @@ For multiplayer games, all participants must be informed and must accept a parti
 
 Game participants shall have the following rights:
 
-- a. To obtain clear and truthful information on the rules of the game in which they wish to participate, in Spanish. Game rules must be available on the license holder’s website;
-- b. To collect any prizes to which they may be entitled when and as established by each game specific rules;
-- c. To submit before the Enforcement Authority under this Title claims against any operator’s decision that may affect their interests;
-- d. To play freely, without coercion or threats from other players or any other third party;
-- e. To know at any time the amount bet or wagered, as well as the gaming account balance;
-- f. To have their personal data protected in accordance with National Law No. 25,326 on personal data protection;
-- g. To know at any time the gaming operator’s identity, especially in the case of telematic games, and, in the event of a claim or possible infringements, to know the identity of the staff members that interact with participants; and
-- h. To receive information on responsible gaming.
+1. a. To obtain clear and truthful information on the rules of the game in which they wish to participate, in Spanish. Game rules must be available on the license holder’s website;
+2. b. To collect any prizes to which they may be entitled when and as established by each game specific rules;
+3. c. To submit before the Enforcement Authority under this Title claims against any operator’s decision that may affect their interests;
+4. d. To play freely, without coercion or threats from other players or any other third party;
+5. e. To know at any time the amount bet or wagered, as well as the gaming account balance;
+6. f. To have their personal data protected in accordance with National Law No. 25,326 on personal data protection;
+7. g. To know at any time the gaming operator’s identity, especially in the case of telematic games, and, in the event of a claim or possible infringements, to know the identity of the staff members that interact with participants; and
+8. h. To receive information on responsible gaming.
 
 ## Responsible Gaming
 
